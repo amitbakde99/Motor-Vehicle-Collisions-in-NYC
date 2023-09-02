@@ -1,6 +1,6 @@
 # Motor-Vehicle-Collisions-in-NYC
 
-This is project is available on Coursera Project Network
+This project is available on Coursera Project Network
 
 Use CMD prompt "python -m streamlit run app.py" to run the app
 
